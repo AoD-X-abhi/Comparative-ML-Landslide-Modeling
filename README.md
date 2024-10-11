@@ -10,8 +10,7 @@ The pair plot provides a grid of scatter plots showing relationships between eve
 <br>
 The pair plot in this project helps in:
 <br>Understanding relationships between variables such as temperature, moisture, rainfall, pressure, and displacement.
-<br>
-- Visualizing potential patterns and correlations between features that may influence landslide prediction.
+<br>Visualizing potential patterns and correlations between features that may influence landslide prediction.
 <br>
 <big>2. Heat Map for Input Parameters</big>
 <br>
