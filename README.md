@@ -1,5 +1,5 @@
 # Comparative-ML-Landslide-Modeling
-<big><big><b>Comparative ML Landslide Modeling</b></big></big>
+<big><big><b>Comparative ML Landslide Modeling</b></big></big><br>
 This project aims to predict landslides by utilizing machine learning models and real-world geographical data. The dataset includes critical features such as temperature, moisture, rainfall, pressure, displacement, and more, which are known to influence landslide occurrences. To enhance prediction accuracy, models like Random Forest, XGBoost, Support Vector Machine (SVM), and Neural Networks were employed, with extensive preprocessing applied to clean and normalize the data.
 <br>
 In this project, we compare the performance of these models using accuracy and error metrics. To provide insights into the data and model predictions, various visualizations such as pair plots, heat maps, PCA, and Actual vs Predicted plots were generated. The results from these models help classify landslides into alert zones, such as Red, Yellow, and Green, enabling more accurate and timely predictions that can inform early-warning systems and reduce disaster impacts.
