@@ -41,6 +41,7 @@ PCA is a dimensionality reduction technique that transforms the dataset into a s
 
 Ensure you have the following installed:
 
-- Python 3.x
+- Python 3.x ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - Virtual Environment (optional but recommended)
-- Git
+- Git ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
