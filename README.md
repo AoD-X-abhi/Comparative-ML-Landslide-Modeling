@@ -9,8 +9,7 @@ In this project, we compare the performance of these models using accuracy and e
 The pair plot provides a grid of scatter plots showing relationships between every pair of features in the dataset. Each scatter plot helps visualize the correlation between two variables, while the diagonal often contains histograms for each feature to illustrate their distribution. This allows for quick identification of trends, potential correlations, or clusters among the input parameters.
 <br>
 The pair plot in this project helps in:
-<br>
-- Understanding relationships between variables such as temperature, moisture, rainfall, pressure, and displacement.
+<br>Understanding relationships between variables such as temperature, moisture, rainfall, pressure, and displacement.
 <br>
 - Visualizing potential patterns and correlations between features that may influence landslide prediction.
 <br>
