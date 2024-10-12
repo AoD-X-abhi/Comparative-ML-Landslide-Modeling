@@ -22,7 +22,15 @@ A heat map displays the correlation matrix of input parameters, where each cell 
   - Identifying input features with strong positive or negative correlations.
   - Understanding which features might be more influential or redundant in the model for landslide prediction.
 
-## 3. Principal Component Analysis (PCA)
+## 3. Visualization for Different Zones
+
+Plotting the Red, Green, and Yellow zones serves multiple purposes from risk assessment and decision-making to public awareness and data visualization. These plots not only help communicate important information but also support proactive measures in disaster management and risk reduction.
+
+- **In this project, the Red Zone Plotting helps in:**
+  - Identifying the number of Red zone areas, where there is maximum chances of Landslide that can occur.
+  - Under standing the Red, Yelow Zones where we can take precautions and Steps to get alert for upcoming Lanslide chances.  
+
+## 4. Principal Component Analysis (PCA)
 
 PCA is a dimensionality reduction technique that transforms the dataset into a set of orthogonal (uncorrelated) components that capture the most variance in the data with fewer dimensions. By reducing the dimensionality of the dataset, PCA helps improve model efficiency and reduces the risk of overfitting, especially when the dataset contains many features.
 
@@ -31,7 +39,7 @@ PCA is a dimensionality reduction technique that transforms the dataset into a s
   - Simplify the model training process by focusing on the most impactful components.
   - Visualize the data in a reduced feature space, offering insights into how the data is distributed across the new principal components.
 
-## 4. Actual vs Predicted Plots
+## 5. Actual vs Predicted Plots
 
 - **Scatter Plot:** A scatter plot was created to visualize the relationship between the actual and predicted values, giving an immediate sense of how closely the model's predictions match the true data points. A perfect fit would align all points along the diagonal, while deviations from the line indicate prediction errors.
 
