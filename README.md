@@ -8,6 +8,8 @@ In this project, we compare the performance of these models using accuracy and e
 
 ## 1. Pair Plot for Input Parameters
 
+![Pair Plot](images/Pairplot.png)
+
 The pair plot provides a grid of scatter plots showing relationships between every pair of features in the dataset. Each scatter plot helps visualize the correlation between two variables, while the diagonal often contains histograms for each feature to illustrate their distribution. This allows for quick identification of trends, potential correlations, or clusters among the input parameters.
 
 - **The pair plot in this project helps in:**
@@ -15,6 +17,8 @@ The pair plot provides a grid of scatter plots showing relationships between eve
   - Visualizing potential patterns and correlations between features that may influence landslide prediction.
 
 ## 2. Heat Map for Input Parameters
+
+![Coorelation Matrix](images/Heatmap.png)
 
 A heat map displays the correlation matrix of input parameters, where each cell is color-coded based on the correlation coefficient between the corresponding features. The heat map makes it easier to visually spot highly correlated features or any multicollinearity in the dataset, which may affect model performance.
 
@@ -31,6 +35,8 @@ Plotting the Red, Green, and Yellow zones serves multiple purposes from risk ass
   - Under standing the Red, Yelow Zones where we can take precautions and Steps to get alert for upcoming Lanslide chances.  
 
 ## 4. Principal Component Analysis (PCA)
+
+![PCA](images/PCA.png)
 
 PCA is a dimensionality reduction technique that transforms the dataset into a set of orthogonal (uncorrelated) components that capture the most variance in the data with fewer dimensions. By reducing the dimensionality of the dataset, PCA helps improve model efficiency and reduces the risk of overfitting, especially when the dataset contains many features.
 
